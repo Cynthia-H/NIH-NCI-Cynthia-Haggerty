@@ -2,11 +2,11 @@
 Data Carpentry Course
 
 # Name
-Cynthia Haggerty
+Cynthia Haggerty   
 Jingwen
 
 # Job
-Techincal Lab Manager
+Techincal Lab Manager  
 Statistician
 
 # 3 activities
