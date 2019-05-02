@@ -2,16 +2,27 @@
 Data Carpentry Course
 
 # Name
-Cynthia Haggerty
+Cynthia Haggerty   
+Jingwen
+
 # Job
-Techincal Lab Manager
+Techincal Lab Manager  
+Statistician
+
 # 3 activities
 -Purchasing
 -Admin
 - personnel
+- data analysis
+
 # 3 tools
 Email
 
 POTS
 
 NBS
+
+Rstudio
+
+Python
+
